@@ -182,3 +182,35 @@ legend
 {
   margin: 1vw;
 }
+/**/
+@media screen and (max-width:430px)
+{
+    img
+  {
+    width: 30vw;
+  }
+  div 
+  {
+    top: 62vh;
+  }
+  .sliderMenu
+  {
+    width: 100vw;
+  }
+  .menu
+  {
+    border-color: #000;
+  }
+  .line
+  {
+    background-color: #000;
+  }
+  .redes i
+  {
+    -webkit-text-stroke: .5px  black;
+  }
+  legend
+  {
+    font-size: 2.5vw;
+  }
+}
